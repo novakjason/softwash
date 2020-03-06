@@ -1,0 +1,10 @@
+{
+	"auth": {
+		"softwashf8f7be90": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": [],
+			"customAuth": false
+		}
+	}
+}

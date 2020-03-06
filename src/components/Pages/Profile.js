@@ -9,7 +9,7 @@ const Profile = () => {
   return (
     <div className="container-login100">
       <AppContent>
-        <h1>Here's the Profile Page</h1>
+        <h1>Profile:</h1>
         <p>Email: {user.email}</p>
         <p>Phone: {user.phone_number}</p>
         <Link to="/home">Home</Link>

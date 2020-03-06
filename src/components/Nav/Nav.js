@@ -5,7 +5,7 @@ function Nav() {
   return (
     <nav className="navbar navbar-expand">
       <Link className="text-center" to="/">
-        <h1 className="navbar-brand mb-0 text-primary">Authenticaysh</h1>
+        <h1 className="navbar-brand mb-0 text-primary">Virginia Softwash</h1>
       </Link>
       <div className="navbar-nav-scroll d-flex flex-grow-1" />
       <div className="navbar-nav-scroll">
