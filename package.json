@@ -6,7 +6,7 @@
   "dependencies": {
     "aws-amplify": "^2.2.6",
     "aws-amplify-react": "^3.1.7",
-    "gatsby": "^2.19.29",
+    "gatsby": "^4.25.7",
     "gatsby-image": "^2.2.42",
     "gatsby-plugin-create-client-paths": "^2.1.22",
     "gatsby-plugin-google-analytics": "^2.1.36",
